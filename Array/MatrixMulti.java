@@ -1,10 +1,9 @@
 import java.io.*;
 import java.util.*;
 
-public class Main{
+public class MatrixMulti{
 
 public static void main(String[] args) throws Exception {
-    // write your code here
     Scanner sc = new Scanner(System.in);
     int n1 = sc.nextInt();
     int m1 = sc.nextInt();

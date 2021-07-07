@@ -4,7 +4,7 @@ import java.util.*;
 public class exit {
 
     public static void main(String[] args) throws Exception {
-        // write your code here
+
         Scanner sc = new Scanner(System.in);
 
         int n = sc.nextInt();
@@ -17,7 +17,7 @@ public class exit {
                 arr[i][j] = sc.nextInt();
             }
         }
-        int dir = 0; //0:e 1:s 2:w 3:n
+        int dir = 0; 
         int i = 0;
         int j = 0;
 

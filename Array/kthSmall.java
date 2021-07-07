@@ -2,8 +2,7 @@ import java.util.Arrays;
 import java.util.Collections;
 
 class kthSmall {
-    public static int kthSmallest(Integer[] arr,
-                                  int k)
+    public static int kthSmallest(Integer[] arr,int k)
     {
         Arrays.sort(arr);
         return arr[k - 1];

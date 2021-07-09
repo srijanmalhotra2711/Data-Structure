@@ -8,6 +8,7 @@ public class exit {
         Scanner sc = new Scanner(System.in);
 
         int n = sc.nextInt();
+        int m = sc.nextInt();
 
         int arr[][] = new int[n][m];
 

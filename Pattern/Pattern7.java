@@ -15,7 +15,7 @@ public class Pattern7 {
             {
                 if(i==j)
                 {
-                    System.out.print("* ");
+                    System.out.print("*  ");
                 }
                 else
                 {

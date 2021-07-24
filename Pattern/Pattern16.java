@@ -15,11 +15,11 @@ public class Pattern16 {
         {
             for(j=1;j<=np;j++)
             {
-                System.out.print("  ");
+                System.out.print("   ");
             }
             for(k=1;k<=ns;k++)
             {
-                System.out.print(k+"  ");
+                System.out.print(k+"   ");
             }
             if(i<=a/2)
             {

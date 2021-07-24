@@ -15,7 +15,7 @@ class RotationCount
                 min_index = i;
             }
         }
-        return min_index;
+        return min_index; 
     }
 
     public static void main (String[] args)

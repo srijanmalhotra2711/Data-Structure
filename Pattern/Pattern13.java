@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Pattern13 {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) { 
         int a, i, j, k, l, product;
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the Number:");

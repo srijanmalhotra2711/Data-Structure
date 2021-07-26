@@ -11,7 +11,7 @@ public class Pattern9 {
         a = sc.nextInt();
         for(i=1;i<=a;i++)
         {
-            for(j=1;j<=a;j++)
+            for(j=1;j<=a;j++) 
             {
                 if((i + j == a + 1) || (i == j))
                 {

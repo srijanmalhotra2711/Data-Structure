@@ -16,7 +16,7 @@ public class exit {
             for(int j = 0; j < arr[0].length; j++) {
                 arr[i][j] = sc.nextInt();
             }
-        }
+        } 
         int dir = 0;
         int i = 0;
         int j = 0;

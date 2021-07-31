@@ -20,7 +20,7 @@ public class Pattern3 {
             for(k=1;k<np;k++)
             {
                 System.out.print("* ");
-            }
+            } 
             np++;
             ns--;
             System.out.println();

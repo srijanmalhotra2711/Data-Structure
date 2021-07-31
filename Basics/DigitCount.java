@@ -9,7 +9,7 @@ public class DigitCount {
         System.out.println("Enter the Number:");
         n = sc.nextInt();
         while(n>0)
-        {
+        { 
             n = n/10;
             i++;
         }

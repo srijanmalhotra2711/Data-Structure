@@ -10,7 +10,7 @@ class SortSearch {
         if (arr[mid] == key)
             return mid;
 
-        if (arr[l] <= arr[mid]) {
+        if (arr[l] <= arr[mid]) { 
             if (key >= arr[l] && key <= arr[mid])
                 return search(arr, l, mid - 1, key);
             return search(arr, mid + 1, h, key);

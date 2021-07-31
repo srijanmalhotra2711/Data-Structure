@@ -16,4 +16,4 @@ public class Pattern14 {
             System.out.println(a + "x" + i + "=" + Product);
         }
     }
-}
+} 
